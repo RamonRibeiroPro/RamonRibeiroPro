@@ -11,7 +11,7 @@
 
 
 
-Me chamo Ramon Willian da Cunha Ribeiro, tenho 38 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Amo tecnologia e estou em busca de conhecimento não só na faculdade, mas também através de cursos e videoaulas. Tenho alguns projetos em desenvolvimento e estou em busca de uma oportunidade no mercado de trabalho, para migrar de área e para aprender mais e aperfeiçoar os meus conhecimentos.
+Estudante de Análise e Desenvolvimento de Sistemas na UNINTER, apaixonado por tecnologia e desenvolvimento de software. Estou em busca da minha primeira oportunidade de estágio para aplicar meus conhecimentos em desenvolvimento web e back-end, aprender com profissionais experientes e contribuir para projetos inovadores. Possuo experiência profissional em resolução de problemas técnicos, atendimento ao cliente e trabalho em equipe, habilidades que complementam minha transição para a área de Tecnologia.
 
 
 <br/>
